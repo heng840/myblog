@@ -1,3 +1,3 @@
 - [Home](/)
-- [README](/readme)
-- [My First Page](/my_first_page)
+- [README](/README.md)
+- [My First Page](/my_first_page.md)
