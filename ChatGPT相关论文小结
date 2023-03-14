@@ -1,0 +1,27 @@
+# 论文小结
+
+## Text2Image
+
+首先是stable diffusion。
+
+https://github.com/AUTOMATIC1111/stable-diffusion-webui  这是web端的UI。
+基于gradio：
+
+https://gradio.app/
+
+这是模型：
+https://github.com/CompVis/stable-diffusion 
+
+此外模型来自C站：civitai
+###TODO
+试试web前端怎么样做出来。
+
+什么的不加入image，只需要text_prompt.下面的方法，加入source_image，增强了模型能力。
+ControlNet
+
+Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
+
+##
+
+
+
