@@ -17,6 +17,24 @@
     }
   </script>
   <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script>
+  window.$docsify = {
+    name: '',
+    repo: '',
+    loadSidebar: true,
+    auto2top: true,
+    subMaxLevel: 2,
+    search: {
+      noData: {
+        '/': 'No results!',
+      },
+      paths: ['/', '/readme.md', '/my_first_page.md']
+    },
+    alias: {
+      '/.*/_sidebar.md': '/_sidebar.md'
+    }
+  }
+</script>
+
 </body>
 </html>
