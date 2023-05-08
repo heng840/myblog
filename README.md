@@ -4,4 +4,4 @@ Welcome to my blog!
 
 ## Table of Contents
 
-- [First Post](./my_first_page.md)
+- [First Post](docs/my_first_page.md)

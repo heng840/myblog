@@ -1,2 +1,5 @@
 - [Home](README.md)
-- [First Post](my_first_page.md)
+- [First Post](docs/my_first_page.md)
+- [huggingface_train](docs/huggingface_docs/train.md)
+- [huggingface_Dataset](docs/huggingface_docs/Dataset.md)
+- [huggingface_tokenizer](docs/huggingface_docs/Tokenizer.md)
